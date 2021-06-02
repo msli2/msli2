@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @msli2
 - 👀 I’m interested in software development, speficially full stack development.
 - 🌱 I’m currently learning CS and MATH at UIUC.
-- 💞️ I’m looking to collaborate on web or phone applications.
+- 💞️ I’m looking to collaborate on web or other applications.
 - 📫 How to reach me: mirandasswli@gmail.com
 
 <!---
